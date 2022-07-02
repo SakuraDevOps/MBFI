@@ -34,7 +34,7 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 
 
 # Screenshot
-<a href="https://ibb.co/C5gFkBm"><img src="https://i.ibb.co/8DqVWMN/Screenshot-2022-07-02-16-50-04-824-com-termux.jpg" alt="Screenshot-2022-07-02-16-50-04-824-com-termux" border="0"></a>
+<a href="https://ibb.co/WfNg8yW"><img src="https://i.ibb.co/9WmsKT9/Screenshot-2022-07-02-18-04-05-444-com-termux.jpg" alt="Screenshot-2022-07-02-18-04-05-444-com-termux" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'>download garis png</a><br />
 
 
 

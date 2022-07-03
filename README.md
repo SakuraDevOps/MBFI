@@ -34,9 +34,7 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 
 
 # Screenshot
-<a href="https://ibb.co/WfNg8yW"><img src="https://i.ibb.co/9WmsKT9/Screenshot-2022-07-02-18-04-05-444-com-termux.jpg" alt="Screenshot-2022-07-02-18-04-05-444-com-termux" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'>download garis png</a><br />
-
-
+<a href="https://ibb.co/Yjyt6hp"><img src="https://i.ibb.co/DK87NQ5/Screenshot-2022-07-03-15-18-20-258-com-termux.jpg" alt="Screenshot-2022-07-03-15-18-20-258-com-termux" border="0"></a>
 
 
 ### Installation On Termux

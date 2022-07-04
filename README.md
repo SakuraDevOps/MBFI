@@ -15,7 +15,7 @@ This is a tool that will help you crack Instagram account very quickly.  You als
 
 + Stable Connection
 
-#  Cracking Method
+#  Paid Tools 
 
 + Multi Pass Cracking Tool,This is a Any Random Accounts Passwords Finder
 
